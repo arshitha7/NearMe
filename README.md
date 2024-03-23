@@ -212,17 +212,17 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ### map.html
-![alt text](<map result.png>)
+![output1](<map out.png>)
 ### xavier.html
-![output2](<xavier output.png>)
+![output2](<xavier out.png>)
 ### suchindram.html
-![output3](<suchindram output.png>)
+![output3](<such out.png>)
 ### parvati.html
-![output4](<parvati output.png>)
+![output4](<parvati out.png>)
 ### sn.html
-![output5](<sn output.png>)
+![output5](<sn out.png>)
 ### kottar.html
-![output6](<kottar output.png>)
+![output6](<kottar out.png>)
 
 
 ## RESULT
